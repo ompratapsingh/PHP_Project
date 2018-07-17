@@ -1,0 +1,11 @@
+Web site :
+
+http://easco.testmynewsite.iwebs.ws/
+
+
+
+Admin :
+
+http://easco.testmynewsite.iwebs.ws/sysadmin/
+User : admin@admin.com
+pass : admin
